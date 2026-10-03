@@ -1,0 +1,6 @@
+{
+  "name": "CashBook Pro",
+  "description": "Multi-account ledger with real-time cloud sync and user authentication",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
